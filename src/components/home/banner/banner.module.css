@@ -1,0 +1,27 @@
+
+.content{
+  background-color: #fff;
+  position: relative;
+}
+
+.carousel {
+  width: 100%;
+  text-align: center;
+}
+
+.carousel-title {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.carousel-desc {
+  position: absolute;
+  top: 85%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

@@ -1,0 +1,20 @@
+.product-card-header {
+  border-bottom: none;
+  padding: 0.75rem 1rem;
+  background: transparent;
+  font-size: 1rem;
+  color: #3b3e40;
+}
+.more {
+  clear: both;
+  display: block;
+  background-color: #fff;
+  height: 48px;
+  text-align: center;
+  text-decoration: none;
+  line-height: 24px;
+  padding: 12px 0;
+  color: #3b3e40;
+  font-size: 14px;
+  margin-top: 2px;
+}

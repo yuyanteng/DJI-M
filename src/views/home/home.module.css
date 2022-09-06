@@ -1,0 +1,26 @@
+/* .home-all {
+  background-color: #f7f7f7;
+} */
+.home-carousel  {
+  height: 60vw;
+  text-align: center;
+  line-height: 180px;
+}
+.home-container {
+  padding: 12px;
+  background-color: #f7f7f7;
+}
+.home-container-access {
+  display: flex;
+  vertical-align: middle;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 12px;
+}
+.home-container-access-card {
+  height: 200px;
+  width: 100%;
+  background-color: #fff;
+  margin-bottom: 12px;
+  box-shadow: 0px 0px 10px #dddddd;
+}
